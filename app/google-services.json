@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "638776618066",
+    "firebase_url": "https://daur-ulangki.firebaseio.com",
+    "project_id": "daur-ulangki",
+    "storage_bucket": "daur-ulangki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638776618066:android:c75cc1fc68950403f6038b",
+        "android_client_info": {
+          "package_name": "com.gabsdev.daurulangki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638776618066-2u3i6r9c01dka17iahtvbhuvrnq0r5s4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gabsdev.daurulangki",
+            "certificate_hash": "9e93e609cdee85c3dc2d6513df4971e8b7a152cc"
+          }
+        },
+        {
+          "client_id": "638776618066-gg3at5mp06ebcd3698fr9t8pvquefl6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACD_4g1JNBQqPfsKIZTCYOtoXujlFX5uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638776618066-gg3at5mp06ebcd3698fr9t8pvquefl6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
