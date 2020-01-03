@@ -27,4 +27,8 @@
 //post
 <color name="colorpost">#FF5722</color>
 
+//splash screen 4D4D4D
+<color name="colorscreen">#4D4D4D</color>
+
+
 </resources>
